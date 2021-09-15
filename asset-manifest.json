@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-product-details-thumb/static/css/main.a9277afa.chunk.css",
+    "main.js": "/react-product-details-thumb/static/js/main.b0595ae9.chunk.js",
+    "main.js.map": "/react-product-details-thumb/static/js/main.b0595ae9.chunk.js.map",
+    "runtime-main.js": "/react-product-details-thumb/static/js/runtime-main.1062f629.js",
+    "runtime-main.js.map": "/react-product-details-thumb/static/js/runtime-main.1062f629.js.map",
+    "static/js/2.8364f855.chunk.js": "/react-product-details-thumb/static/js/2.8364f855.chunk.js",
+    "static/js/2.8364f855.chunk.js.map": "/react-product-details-thumb/static/js/2.8364f855.chunk.js.map",
+    "static/js/3.8111366e.chunk.js": "/react-product-details-thumb/static/js/3.8111366e.chunk.js",
+    "static/js/3.8111366e.chunk.js.map": "/react-product-details-thumb/static/js/3.8111366e.chunk.js.map",
+    "index.html": "/react-product-details-thumb/index.html",
+    "static/css/main.a9277afa.chunk.css.map": "/react-product-details-thumb/static/css/main.a9277afa.chunk.css.map",
+    "static/js/2.8364f855.chunk.js.LICENSE.txt": "/react-product-details-thumb/static/js/2.8364f855.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1062f629.js",
+    "static/js/2.8364f855.chunk.js",
+    "static/css/main.a9277afa.chunk.css",
+    "static/js/main.b0595ae9.chunk.js"
+  ]
+}
